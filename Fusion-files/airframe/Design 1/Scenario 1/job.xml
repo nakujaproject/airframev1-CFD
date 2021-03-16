@@ -1,0 +1,19 @@
+<CFD_JobInformation version="19.2">
+ <analysisPath>C:\Users\0x6f736f646f\OneDrive\Documents\Inventor\Nakuja project\Fusion\airframe\Design 1\Scenario 1</analysisPath>
+ <meshFlag>Y</meshFlag>
+ <jobType>LOCAL</jobType>
+ <isClusterJob>false</isClusterJob>
+ <cores>0</cores>
+ <jobArgs></jobArgs>
+ <profile>MyComputer</profile>
+ <owner>0x6f736f646f</owner>
+ <UIHost>DESKTOP-U93F1QC</UIHost>
+ <solveHost>DESKTOP-U93F1QC</solveHost>
+ <portalId></portalId>
+ <portalPwd></portalPwd>
+ <recipients></recipients>
+ <notifyStart>false</notifyStart>
+ <notifyMesh>false</notifyMesh>
+ <notifyDone>false</notifyDone>
+ <useLocalSmpd>false</useLocalSmpd>
+</CFD_JobInformation>
