@@ -1,3 +1,4 @@
 # Ignore this files
 
-solver/*
+solver/
+Scenario 1.cfdsc
