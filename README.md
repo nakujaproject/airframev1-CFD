@@ -54,3 +54,5 @@ For more information check out detailed process at [here](https://github.com/nak
 ### Our velocity versus pressure graph
 
 ![](Fusion-files/cfdstudy/velocityvspressure.jpg)
+
+The data can be found [here](Fusion-files/cfdstudy/velocityvspressure.csv)
