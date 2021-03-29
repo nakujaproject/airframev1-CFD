@@ -1,5 +1,5 @@
 <cfd_design_studies user_name="0x6f736f646f" version="19.2.20190802">
- <design_study study_id="0b9726e7-793a-49b7-83fe-e89811c9caef" folder="C:/Users/0x6f736f646f/OneDrive/Documents/Nakuja/airframev1-CFD/Fusion-files/cfdstudy" instance_id="c7f5109f-020a-4638-865f-ed2daaaa23db" name="cfdstudy">
+ <design_study study_id="0b9726e7-793a-49b7-83fe-e89811c9caef" folder="C:/Users/0x6f736f646f/OneDrive/Documents/Nakuja/airframev1-CFD/Fusion-files/cfdstudy" instance_id="id_not_defined" name="cfdstudy">
   <design lock_status="false" launcher_type="CP_ASM_STEP_IMPORT" model_id="assembled.cfdsmt" name="Design 1">
    <analysis name="Scenario 1"/>
   </design>

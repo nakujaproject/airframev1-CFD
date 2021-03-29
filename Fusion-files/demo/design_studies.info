@@ -1,0 +1,7 @@
+<cfd_design_studies version="19.2.20190802" user_name="0x6f736f646f">
+ <design_study name="demo" instance_id="id_not_defined" folder="C:\Users\0x6f736f646f\OneDrive\Documents\Nakuja\airframev1-CFD\Fusion-files/demo" study_id="30cc176b-5e43-416e-9c70-c7c19fe4ad4e">
+  <design launcher_type="CP_ASM_STEP_IMPORT" name="Design 1" model_id="assembled.cfdsmt" lock_status="false">
+   <analysis name="Scenario 1"/>
+  </design>
+ </design_study>
+</cfd_design_studies>
